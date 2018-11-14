@@ -4,7 +4,7 @@
 
 What my project About?
 
-Can I make a meaningful interaction between a child and a machine? /
+Can I make a meaningful interaction between a child and a machine? <enter>
 Can I tell a story using machine learning tools?
 
 Using text to from a narrative.
