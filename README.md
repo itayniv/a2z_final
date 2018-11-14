@@ -30,7 +30,7 @@ Rita.js
 [are.na](https://www.are.na/itay-niv/tell-me-a-story-mctz38_fpi0) \
 [Quickdraw dataset](https://quickdraw.withgoogle.com/data/jacket)
 
-# Question
+# Questions
 
 1. How much is too much?
 2. How much is too little?
