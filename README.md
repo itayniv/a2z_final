@@ -1,6 +1,8 @@
-[are.na](https://www.are.na/itay-niv/tell-me-a-story-mctz38_fpi0)
-[Quickdraw dataset](https://quickdraw.withgoogle.com/data/jacket)
+# Resources
 
+
+[are.na](https://www.are.na/itay-niv/tell-me-a-story-mctz38_fpi0) \
+[Quickdraw dataset](https://quickdraw.withgoogle.com/data/jacket)
 
 # What my project About?
 
