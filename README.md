@@ -1,18 +1,12 @@
-# Resources
-
-
-[are.na](https://www.are.na/itay-niv/tell-me-a-story-mctz38_fpi0) \
-[Quickdraw dataset](https://quickdraw.withgoogle.com/data/jacket)
-
-# What my project About?
+# What is my project About?
 
 Can I make a meaningful interaction between a child and a machine? \
-Can I tell a story using machine learning tools? 
+Can I tell/create/simulate a children's story using machine learning tools? 
 
-Using text to from a narrative. \
-Using illustrations to form a narrative. \
-Using sound and music to form a narrative. \
-Using animation to form a narrative. 
+1. Using text to from a narrative. \
+2. Using illustrations to form a narrative. \
+3. Using sound and music to form a narrative. \
+4. Using animation to form a narrative. 
 
 # How did you become interested in this idea?
 Recent developments in machine input complexity and accuracy are leading to more meaningful parameters that can be measured in smaller and smaller amount of time.  
@@ -30,3 +24,8 @@ LSTMGenerator \
 Tone JS \
 Tracery \
 Rita.js 
+
+# Resources
+
+[are.na](https://www.are.na/itay-niv/tell-me-a-story-mctz38_fpi0) \
+[Quickdraw dataset](https://quickdraw.withgoogle.com/data/jacket)
