@@ -13,17 +13,18 @@ Using sound and music to form a narrative. \
 Using animation to form a narrative. \
 
 # How did you become interested in this idea?
-Recent developments in machine input complexity and accuracy are leading to more meaningful parameters that can be measured in smaller and smaller amount of time.  /
+Recent developments in machine input complexity and accuracy are leading to more meaningful parameters that can be measured in smaller and smaller amount of time.  \
 
-Amazon alexa, Google home, Facebook portal smartphones and other computers are beginning to have more impact on children’s life. Developing new forms of interactions could be interesting and important. /
+Amazon alexa, Google home, Facebook portal smartphones and other computers are beginning to have more impact on children’s life. Developing new forms of interactions could be interesting and important. \
 
 # Ideas for Title:
-Tell me a story
-Imagine me this
-Tools:
-SketchRNN
-Word2Vec
-LSTMGenerator
-Tone JS
-Tracery
-Rita.js
+Tell me a story \
+Imagine me this \
+
+# Tools:
+SketchRNN \
+Word2Vec \
+LSTMGenerator \
+Tone JS \
+Tracery \
+Rita.js \
