@@ -27,4 +27,4 @@ Word2Vec \
 LSTMGenerator \
 Tone JS \
 Tracery \
-Rita.js \
+Rita.js 
