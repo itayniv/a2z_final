@@ -11,7 +11,8 @@ Can I tell/create/simulate a children's story using machine learning tools?
 # How did you become interested in this idea?
 Recent developments in machine input complexity and accuracy are leading to more meaningful parameters that can be measured in smaller and smaller amount of time.  
 
-Amazon alexa, Google home, Facebook portal smartphones and other computers are beginning to have more impact on children’s life. Developing new forms of interactions could be interesting and important. 
+Amazon alexa, Google home, Facebook portal smartphones and other computers are beginning to have more impact on children’s life. \ 
+Developing new forms of interactions could be interesting and important. 
 
 # Ideas for Title:
 Tell me a story \
